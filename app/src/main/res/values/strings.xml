@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="happy_birthday_sam">Happy Birthday, Sam</string>
+    <string name="textview">From Carl.</string>
+    <string name="textview3">From Carl.</string>
+    <string name="image">image</string>
+    <string name="background">background</string>
 </resources>
